@@ -1,1 +1,2 @@
 # coal_india_dashboard_power_bi
+This interactive Power BI dashboard visualizes the net,average coal production across different states in India, categorized by mine type. Users can explore production trends state-wise and filter data dynamically using buttons and slicers to analyze underground and open-cast mines separately. The dashboard provides clear, actionable insights into Coal India’s mining performance with an intuitive, user-friendly interface.
